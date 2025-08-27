@@ -1116,6 +1116,7 @@
 }
 
 .voucher-paragraph-wrapper {
+  flex-flow: column;
   justify-content: center;
   align-items: center;
   padding-top: 20px;
